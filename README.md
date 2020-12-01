@@ -25,9 +25,9 @@ Sou um Desenvolvedor Javascript, tenho **26 anos** e sou **youtube** nas horas v
 ---
 **Meus projetos:**
 
-<a target="_blank" href="https://discloudbot.com">
+**DisCloud** <a target="_blank" href="https://discloudbot.com">
   <img align="left" alt="Gmail" width="33px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4" />
-</a> **DisCloud** - Serviço de hospedagem gratuita para Bots Discord
+</a> - Serviço de hospedagem gratuita para Bots Discord
 
 <!--
 **pedroricardo/pedroricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
