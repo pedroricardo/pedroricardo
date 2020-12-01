@@ -18,12 +18,15 @@
 ---
 Olá, sou Pedro Ricardo, mas pode me chamar de **PR**.
 
-Sou um Desenvolvedor Javascript <span target="_blank">
-  <img align="left" alt="js" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</span>, tenho **26 anos** e sou **youtube** nas horas vagas 🧐. 
+Sou um Desenvolvedor Javascript, tenho **26 anos** e sou **youtube** nas horas vagas 🧐. 
 
 **Pecuárista** 🐮, **aspirante a videomaker** 🎸e um péssimo **jogador de videogame** 🎮.
 ---
+**Meus projetos:**
+
+<a target="_blank" href="https://discloudbot.com">
+  <img align="left" alt="Gmail" width="22px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4" />
+</a> **DisCloud** - Serviço de hospedagem gratuita para Bots Discord
 
 <!--
 **pedroricardo/pedroricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
