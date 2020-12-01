@@ -21,7 +21,7 @@ Olá, sou Pedro Ricardo, mas pode me chamar de **PR**.
 Sou um Desenvolvedor Javascript, tenho **26 anos** e sou **youtube** nas horas vagas, **Pecuárista** 🐮, aspirante a **videomaker** 🎥 e um péssimo **jogador de videogame** 🎮.
 
 ---
-## **Meus projetos:**
+### **Meus projetos:**
 
 **DisCloud** <a target="_blank" href="https://discloudbot.com">
   <img align="left" alt="Gmail" width="33px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4" />
