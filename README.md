@@ -1,6 +1,6 @@
 ### 👋 Olá Mundo, eu sou o PR!  <img src="https://i.imgur.com/qfRWQvB.gif" width="24px">
 
-<img align="left" height="226" src="https://cdn.discordapp.com/attachments/752212575688720384/759591413360361492/sp3_bglessx4.png"/>
+<img align="left" height="126" src="https://cdn.discordapp.com/attachments/752212575688720384/759591413360361492/sp3_bglessx4.png"/>
 
 <a target="_blank" href="https://www.youtube.com/pedroricardor">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
