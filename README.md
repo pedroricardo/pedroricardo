@@ -21,6 +21,7 @@ Olá, sou Pedro Ricardo, mas pode me chamar de **PR**.
 Sou um Desenvolvedor Javascript, tenho **26 anos** e sou **youtube** nas horas vagas 🧐. 
 
 **Pecuárista** 🐮, **aspirante a videomaker** 🎸e um péssimo **jogador de videogame** 🎮.
+
 ---
 **Meus projetos:**
 
