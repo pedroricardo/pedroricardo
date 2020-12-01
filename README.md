@@ -1,5 +1,5 @@
 ### 👋 Olá Mundo, eu sou o PR!  <img src="https://i.imgur.com/qfRWQvB.gif" width="24px">
-</br>
+
 <a target="_blank" href="https://www.youtube.com/pedroricardor">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
