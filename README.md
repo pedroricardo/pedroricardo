@@ -10,9 +10,13 @@
 <a target="_blank" href="https://www.instagram.com/pedroricardor">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a target="_blank" href="https://discord.com/invite/CvxevT5">
+  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
+</a>
 <a target="_blank" href="mailto:pedroricardorn@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+
 </br>
 
 ---
