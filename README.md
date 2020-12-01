@@ -20,7 +20,7 @@
 </br>
 
 ---
-<img align="left" height="150" src="https://cdn.discordapp.com/attachments/752212575688720384/759591413360361492/sp3_bglessx4.png"/>
+<img align="left" height="126" src="https://cdn.discordapp.com/attachments/752212575688720384/759591413360361492/sp3_bglessx4.png"/>
 
 Olá, sou Pedro Ricardo, mas pode me chamar de **PR**.
 
