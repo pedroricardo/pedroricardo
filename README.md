@@ -1,4 +1,27 @@
-### Hi there 👋
+### 👋 Olá Mundo, eu sou o PR!  <img src="https://i.imgur.com/qfRWQvB.gif" width="24px">
+
+<a target="_blank" href="https://www.youtube.com/pedroricardor">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
+</a>
+<!--
+<a target="_blank" href="https://api.whatsapp.com/send?phone=55num">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>-->
+<a target="_blank" href="https://www.instagram.com/pedroricardor">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="mailto:pedroricardorn@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+</br>
+
+---
+Olá, sou Pedro Ricardo, mas pode me chamar de **PR**.
+
+Sou um Desenvolvedor javascript no Brasil 💚, **26 anos de idade** e **youtube nas horas vagas** 🧐. 
+
+**Pecuárista** 🐮, **aspirante a videomaker** 🎸e um péssimo **jogador de videogame** 🎮.
+---
 
 <!--
 **pedroricardo/pedroricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
