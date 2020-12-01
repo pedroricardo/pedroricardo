@@ -23,7 +23,7 @@
 
 <img align="left" height="220" src="https://media.discordapp.net/attachments/752212575688720384/759591428224843786/sp3_bgx4.png"/>
 
-Olá, sou Pedro Ricardo, mas pode me chamar de **PR**.
+Olá, sou **Pedro Ricardo**, mas pode me chamar de **PR**.
 
 Sou um Desenvolvedor <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px"> **Javascript** de 26 anos, <img src="https://acordeiqueroviajar.com.br/wp-content/uploads/2017/12/youtube-logo.png" width="20px"> **youtube** nas horas vagas, 🐮 **Pecuárista**, aspirante a 🎥 **videomaker** e um péssimo 🎮 **jogador de videogame**.
 
