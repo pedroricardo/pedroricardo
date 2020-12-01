@@ -21,7 +21,7 @@
 
 ---
 
-<img align="left" height="220" src="https://cdn.discordapp.com/attachments/752212575688720384/759591413360361492/sp3_bglessx4.png"/>
+<img align="left" height="220" src="https://media.discordapp.net/attachments/752212575688720384/759591428224843786/sp3_bgx4.png"/>
 
 Olá, sou Pedro Ricardo, mas pode me chamar de **PR**.
 
