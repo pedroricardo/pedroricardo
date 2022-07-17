@@ -1,4 +1,4 @@
-### 👋 Olá Mundo!  <img src="https://i.imgur.com/qfRWQvB.gif" width="24px">
+### 👋 Olá Mundo!  <img src="https://i.imgur.com/qfRWQvB.gif" width="2%">
 
 <a target="_blank" href="https://www.youtube.com/pedroricardor">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
